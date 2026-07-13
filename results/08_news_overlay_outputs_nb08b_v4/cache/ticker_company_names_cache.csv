@@ -1,0 +1,376 @@
+ticker,company_name,name_source
+A,"Agilent Technologies, Inc.",yfinance
+AAPL,Apple Inc.,yfinance
+ABBV,AbbVie Inc.,yfinance
+ABNB,"Airbnb, Inc.",yfinance
+ACGL,Arch Capital Group Ltd.,yfinance
+ACN,Accenture plc,yfinance
+ADBE,Adobe Inc.,yfinance
+ADI,"Analog Devices, Inc.",yfinance
+ADM,Archer-Daniels-Midland Company,yfinance
+ADP,"Automatic Data Processing, Inc.",yfinance
+ADSK,"Autodesk, Inc.",yfinance
+AEP,American Electric Power Company,yfinance
+AES,The AES Corporation,yfinance
+AIG,"American International Group, I",yfinance
+AIZ,"Assurant, Inc.",yfinance
+AKAM,"Akamai Technologies, Inc.",yfinance
+ALB,Albemarle Corporation,yfinance
+ALGN,"Align Technology, Inc.",yfinance
+ALL,Allstate Corporation (The),yfinance
+ALLE,Allegion plc,yfinance
+AMAT,"Applied Materials, Inc.",yfinance
+AMCR,Amcor plc,yfinance
+AMD,"Advanced Micro Devices, Inc.",yfinance
+AME,"AMETEK, Inc.",yfinance
+AMGN,Amgen Inc.,yfinance
+AMP,"Ameriprise Financial, Inc.",yfinance
+AMT,American Tower Corporation (REI,yfinance
+AMZN,"Amazon.com, Inc.",yfinance
+ANET,"Arista Networks, Inc.",yfinance
+AOS,A.O. Smith Corporation,yfinance
+APH,Amphenol Corporation,yfinance
+APO,"Apollo Global Management, Inc.",yfinance
+APP,Applovin Corporation,yfinance
+APTV,Aptiv PLC,yfinance
+ARES,Ares Management Corporation,yfinance
+AVGO,Broadcom Inc.,yfinance
+AXON,"Axon Enterprise, Inc.",yfinance
+AXP,American Express Company,yfinance
+BA,Boeing Company (The),yfinance
+BAC,Bank of America Corporation,yfinance
+BALL,Ball Corporation,yfinance
+BAX,Baxter International Inc.,yfinance
+BBY,"Best Buy Co., Inc.",yfinance
+BDX,"Becton, Dickinson and Company",yfinance
+BEN,"Franklin Resources, Inc.",yfinance
+BIIB,Biogen Inc.,yfinance
+BK,The Bank of New York Mellon Cor,yfinance
+BKNG,Booking Holdings Inc. Common St,yfinance
+BKR,Baker Hughes Company,yfinance
+BLDR,"Builders FirstSource, Inc.",yfinance
+BLK,"BlackRock, Inc.",yfinance
+BR,"Broadridge Financial Solutions,",yfinance
+BRK-B,Berkshire Hathaway Inc. New,yfinance
+BRO,"Brown & Brown, Inc.",yfinance
+BSX,Boston Scientific Corporation,yfinance
+BX,Blackstone Inc.,yfinance
+C,"Citigroup, Inc.",yfinance
+CAH,"Cardinal Health, Inc.",yfinance
+CAT,"Caterpillar, Inc.",yfinance
+CB,Chubb Limited,yfinance
+CCI,Crown Castle Inc.,yfinance
+CCL,Carnival Corporation Ltd.,yfinance
+CDNS,"Cadence Design Systems, Inc.",yfinance
+CDW,CDW Corporation,yfinance
+CEG,Constellation Energy Corporatio,yfinance
+CFG,"Citizens Financial Group, Inc.",yfinance
+CHD,"Church & Dwight Company, Inc.",yfinance
+CHRW,"C.H. Robinson Worldwide, Inc.",yfinance
+CHTR,"Charter Communications, Inc.",yfinance
+CIEN,Ciena Corporation,yfinance
+CL,Colgate-Palmolive Company,yfinance
+CLX,Clorox Company (The),yfinance
+CMCSA,Comcast Corporation,yfinance
+CMG,"Chipotle Mexican Grill, Inc.",yfinance
+CMI,Cummins Inc.,yfinance
+CMS,CMS Energy Corporation,yfinance
+CNP,"CenterPoint Energy, Inc (Holdin",yfinance
+COF,Capital One Financial Corporati,yfinance
+COHR,Coherent Corp.,yfinance
+COIN,"Coinbase Global, Inc.",yfinance
+COO,"The Cooper Companies, Inc.",yfinance
+COR,"Cencora, Inc.",yfinance
+COST,Costco Wholesale Corporation,yfinance
+CPAY,"Corpay, Inc.",yfinance
+CPRT,"Copart, Inc.",yfinance
+CPT,Camden Property Trust,yfinance
+CRH,CRH PLC,yfinance
+CRL,Charles River Laboratories Inte,yfinance
+CRM,"Salesforce, Inc.",yfinance
+CRWD,"CrowdStrike Holdings, Inc.",yfinance
+CSCO,"Cisco Systems, Inc.",yfinance
+CSGP,"CoStar Group, Inc.",yfinance
+CSX,CSX Corporation,yfinance
+CTAS,Cintas Corporation,yfinance
+CTSH,Cognizant Technology Solutions,yfinance
+CVNA,Carvana Co.,yfinance
+CVX,Chevron Corporation,yfinance
+DAL,"Delta Air Lines, Inc.",yfinance
+DASH,"DoorDash, Inc.",yfinance
+DDOG,"Datadog, Inc.",yfinance
+DE,Deere & Company,yfinance
+DECK,Deckers Outdoor Corporation,yfinance
+DELL,Dell Technologies Inc.,yfinance
+DG,Dollar General Corporation,yfinance
+DGX,Quest Diagnostics Incorporated,yfinance
+DHI,"D.R. Horton, Inc.",yfinance
+DHR,Danaher Corporation,yfinance
+DLR,"Digital Realty Trust, Inc.",yfinance
+DLTR,"Dollar Tree, Inc.",yfinance
+DOV,Dover Corporation,yfinance
+DOW,Dow Inc.,yfinance
+DRI,"Darden Restaurants, Inc.",yfinance
+DTE,DTE Energy Company,yfinance
+DVA,DaVita Inc.,yfinance
+DXCM,"DexCom, Inc.",yfinance
+EA,Electronic Arts Inc.,yfinance
+EFX,"Equifax, Inc.",yfinance
+EIX,Edison International,yfinance
+EL,"Estee Lauder Companies, Inc. (T",yfinance
+EME,"EMCOR Group, Inc.",yfinance
+EMR,Emerson Electric Company,yfinance
+EOG,"EOG Resources, Inc.",yfinance
+EPAM,"EPAM Systems, Inc.",yfinance
+EQIX,"Equinix, Inc.",yfinance
+EQT,EQT Corporation,yfinance
+ERIE,Erie Indemnity Company,yfinance
+ESS,"Essex Property Trust, Inc.",yfinance
+ETN,"Eaton Corporation, PLC",yfinance
+ETR,Entergy Corporation,yfinance
+EW,Edwards Lifesciences Corporatio,yfinance
+EXE,Expand Energy Corporation,yfinance
+EXPD,Expeditors International of Was,yfinance
+EXPE,"Expedia Group, Inc.",yfinance
+EXR,Extra Space Storage Inc,yfinance
+F,Ford Motor Company,yfinance
+FANG,"Diamondback Energy, Inc.",yfinance
+FAST,Fastenal Company,yfinance
+FCX,"Freeport-McMoRan, Inc.",yfinance
+FDX,FedEx Corporation,yfinance
+FFIV,"F5, Inc.",yfinance
+FICO,Fair Isaac Corporation,yfinance
+FIS,Fidelity National Information S,yfinance
+FISV,"Fiserv, Inc.",yfinance
+FIX,"Comfort Systems USA, Inc.",yfinance
+FOX,Fox Corporation,yfinance
+FOXA,Fox Corporation,yfinance
+FRT,Federal Realty Investment Trust,yfinance
+FSLR,"First Solar, Inc.",yfinance
+FTNT,"Fortinet, Inc.",yfinance
+FTV,Fortive Corporation,yfinance
+GDDY,GoDaddy Inc.,yfinance
+GE,GE Aerospace,yfinance
+GEHC,GE HealthCare Technologies Inc.,yfinance
+GEN,Gen Digital Inc.,yfinance
+GEV,GE Vernova Inc.,yfinance
+GLW,Corning Incorporated,yfinance
+GM,General Motors Company,yfinance
+GNRC,Generac Holdlings Inc.,yfinance
+GOOG,Alphabet Inc.,yfinance
+GOOGL,Alphabet Inc.,yfinance
+GRMN,Garmin Ltd.,yfinance
+GS,"Goldman Sachs Group, Inc. (The)",yfinance
+GWW,"W.W. Grainger, Inc.",yfinance
+HAL,Halliburton Company,yfinance
+HAS,"Hasbro, Inc.",yfinance
+HBAN,Huntington Bancshares Incorpora,yfinance
+HCA,"HCA Healthcare, Inc.",yfinance
+HIG,"The Hartford Insurance Group, I",yfinance
+HII,"Huntington Ingalls Industries,",yfinance
+HLT,Hilton Worldwide Holdings Inc.,yfinance
+HOOD,"Robinhood Markets, Inc.",yfinance
+HPE,Hewlett Packard Enterprise Comp,yfinance
+HPQ,HP Inc.,yfinance
+HUBB,Hubbell Inc,yfinance
+HUM,Humana Inc.,yfinance
+HWM,Howmet Aerospace Inc.,yfinance
+IBKR,"Interactive Brokers Group, Inc.",yfinance
+IBM,International Business Machines,yfinance
+ICE,Intercontinental Exchange Inc.,yfinance
+IDXX,"IDEXX Laboratories, Inc.",yfinance
+IEX,IDEX Corporation,yfinance
+IFF,International Flavors & Fragran,yfinance
+INCY,Incyte Corporation,yfinance
+INTC,Intel Corporation,yfinance
+INTU,Intuit Inc.,yfinance
+IP,International Paper Company,yfinance
+IQV,"IQVIA Holdings, Inc.",yfinance
+IR,Ingersoll Rand Inc.,yfinance
+IRM,Iron Mountain Incorporated (Del,yfinance
+ISRG,"Intuitive Surgical, Inc.",yfinance
+IT,"Gartner, Inc.",yfinance
+ITW,Illinois Tool Works Inc.,yfinance
+IVZ,Invesco Ltd,yfinance
+J,Jacobs Solutions Inc.,yfinance
+JBHT,"J.B. Hunt Transport Services, I",yfinance
+JBL,Jabil Inc.,yfinance
+JCI,Johnson Controls International,yfinance
+JPM,JP Morgan Chase & Co.,yfinance
+KEY,KeyCorp,yfinance
+KEYS,Keysight Technologies Inc.,yfinance
+KIM,Kimco Realty Corporation (HC),yfinance
+KKR,KKR & Co. Inc.,yfinance
+KLAC,KLA Corporation,yfinance
+KMI,"Kinder Morgan, Inc.",yfinance
+LDOS,"Leidos Holdings, Inc.",yfinance
+LEN,Lennar Corporation,yfinance
+LHX,"L3Harris Technologies, Inc.",yfinance
+LII,"Lennox International, Inc.",yfinance
+LITE,Lumentum Holdings Inc.,yfinance
+LLY,Eli Lilly and Company,yfinance
+LOW,"Lowe's Companies, Inc.",yfinance
+LRCX,Lam Research Corporation,yfinance
+LULU,lululemon athletica inc.,yfinance
+LUV,Southwest Airlines Company,yfinance
+LVS,Las Vegas Sands Corp.,yfinance
+LYB,LyondellBasell Industries NV,yfinance
+LYV,"Live Nation Entertainment, Inc.",yfinance
+MA,Mastercard Incorporated,yfinance
+MAA,Mid-America Apartment Communiti,yfinance
+MAR,Marriott International,yfinance
+MAS,Masco Corporation,yfinance
+MCD,McDonald's Corporation,yfinance
+MCHP,Microchip Technology Incorporat,yfinance
+MCK,McKesson Corporation,yfinance
+MDT,Medtronic plc.,yfinance
+MET,"MetLife, Inc.",yfinance
+META,"Meta Platforms, Inc.",yfinance
+MGM,MGM Resorts International,yfinance
+MLM,"Martin Marietta Materials, Inc.",yfinance
+MO,"Altria Group, Inc.",yfinance
+MOS,Mosaic Company (The),yfinance
+MPC,Marathon Petroleum Corporation,yfinance
+MPWR,"Monolithic Power Systems, Inc.",yfinance
+MRK,"Merck & Company, Inc.",yfinance
+MS,Morgan Stanley,yfinance
+MSFT,Microsoft Corporation,yfinance
+MSI,"Motorola Solutions, Inc.",yfinance
+MTB,M&T Bank Corporation,yfinance
+MTD,"Mettler-Toledo International, I",yfinance
+MU,"Micron Technology, Inc.",yfinance
+NCLH,Norwegian Cruise Line Holdings,yfinance
+NDAQ,"Nasdaq, Inc.",yfinance
+NDSN,Nordson Corporation,yfinance
+NEM,Newmont Corporation,yfinance
+NFLX,"Netflix, Inc.",yfinance
+NI,NiSource Inc,yfinance
+NKE,"Nike, Inc.",yfinance
+NOC,Northrop Grumman Corporation,yfinance
+NOW,"ServiceNow, Inc.",yfinance
+NRG,"NRG Energy, Inc.",yfinance
+NSC,Norfolk Southern Corporation,yfinance
+NTAP,"NetApp, Inc.",yfinance
+NTRS,Northern Trust Corporation,yfinance
+NVDA,NVIDIA Corporation,yfinance
+NVR,"NVR, Inc.",yfinance
+NWS,News Corporation,yfinance
+NWSA,News Corporation,yfinance
+NXPI,NXP Semiconductors N.V.,yfinance
+ODFL,"Old Dominion Freight Line, Inc.",yfinance
+OMC,Omnicom Group Inc.,yfinance
+ON,ON Semiconductor Corporation,yfinance
+ORCL,Oracle Corporation,yfinance
+OTIS,Otis Worldwide Corporation,yfinance
+PANW,"Palo Alto Networks, Inc.",yfinance
+PCAR,PACCAR Inc.,yfinance
+PCG,Pacific Gas & Electric Co.,yfinance
+PEG,Public Service Enterprise Group,yfinance
+PFE,"Pfizer, Inc.",yfinance
+PFG,Principal Financial Group Inc,yfinance
+PGR,Progressive Corporation (The),yfinance
+PH,Parker-Hannifin Corporation,yfinance
+PHM,"PulteGroup, Inc.",yfinance
+PKG,Packaging Corporation of Americ,yfinance
+PLD,"Prologis, Inc.",yfinance
+PLTR,Palantir Technologies Inc.,yfinance
+PNC,"PNC Financial Services Group, I",yfinance
+PNR,Pentair plc.,yfinance
+PNW,Pinnacle West Capital Corporati,yfinance
+PODD,Insulet Corporation,yfinance
+PPG,"PPG Industries, Inc.",yfinance
+PPL,PPL Corporation,yfinance
+PRU,"Prudential Financial, Inc.",yfinance
+PSX,Phillips 66,yfinance
+PTC,PTC Inc.,yfinance
+PWR,"Quanta Services, Inc.",yfinance
+PYPL,"PayPal Holdings, Inc.",yfinance
+QCOM,QUALCOMM Incorporated,yfinance
+RCL,Royal Caribbean Cruises Ltd.,yfinance
+REGN,"Regeneron Pharmaceuticals, Inc.",yfinance
+RF,Regions Financial Corporation,yfinance
+RJF,"Raymond James Financial, Inc.",yfinance
+RL,Ralph Lauren Corporation,yfinance
+ROL,"Rollins, Inc.",yfinance
+ROP,"Roper Technologies, Inc.",yfinance
+ROST,"Ross Stores, Inc.",yfinance
+RSG,"Republic Services, Inc.",yfinance
+RTX,RTX Corporation,yfinance
+RVTY,"Revvity, Inc.",yfinance
+SATS,EchoStar Corporation,yfinance
+SCHW,Charles Schwab Corporation (The,yfinance
+SHW,Sherwin-Williams Company (The),yfinance
+SLB,SLB Limited,yfinance
+SMCI,"Super Micro Computer, Inc.",yfinance
+SNA,Snap-On Incorporated,yfinance
+SNDK,Sandisk Corporation,yfinance
+SNPS,"Synopsys, Inc.",yfinance
+SO,Southern Company (The),yfinance
+SPG,"Simon Property Group, Inc.",yfinance
+SPGI,S&P Global Inc.,yfinance
+STE,STERIS plc (Ireland),yfinance
+STLD,"Steel Dynamics, Inc.",yfinance
+STT,State Street Corporation,yfinance
+STX,Seagate Technology Holdings PLC,yfinance
+SWK,"Stanley Black & Decker, Inc.",yfinance
+SWKS,"Skyworks Solutions, Inc.",yfinance
+SYF,Synchrony Financial,yfinance
+SYK,Stryker Corporation,yfinance
+TAP,Molson Coors Beverage Company,yfinance
+TDG,Transdigm Group Incorporated,yfinance
+TEL,TE Connectivity plc,yfinance
+TER,"Teradyne, Inc.",yfinance
+TFC,Truist Financial Corporation,yfinance
+TJX,"TJX Companies, Inc. (The)",yfinance
+TKO,"TKO Group Holdings, Inc.",yfinance
+TMO,Thermo Fisher Scientific Inc,yfinance
+TMUS,"T-Mobile US, Inc.",yfinance
+TPL,Texas Pacific Land Corporation,yfinance
+TPR,"Tapestry, Inc.",yfinance
+TRGP,"Targa Resources, Inc.",yfinance
+TRMB,Trimble Inc.,yfinance
+TRV,"The Travelers Companies, Inc.",yfinance
+TSCO,Tractor Supply Company,yfinance
+TSLA,"Tesla, Inc.",yfinance
+TSN,"Tyson Foods, Inc.",yfinance
+TT,Trane Technologies plc,yfinance
+TTD,"The Trade Desk, Inc.",yfinance
+TTWO,"Take-Two Interactive Software,",yfinance
+TXN,Texas Instruments Incorporated,yfinance
+UAL,"United Airlines Holdings, Inc.",yfinance
+UBER,"Uber Technologies, Inc.",yfinance
+UHS,"Universal Health Services, Inc.",yfinance
+UPS,"United Parcel Service, Inc.",yfinance
+URI,"United Rentals, Inc.",yfinance
+USB,U.S. Bancorp,yfinance
+V,Visa Inc.,yfinance
+VLO,Valero Energy Corporation,yfinance
+VLTO,Veralto Corp,yfinance
+VMC,Vulcan Materials Company (Holdi,yfinance
+VRSK,"Verisk Analytics, Inc.",yfinance
+VRSN,"VeriSign, Inc.",yfinance
+VRT,"Vertiv Holdings, LLC",yfinance
+VST,Vistra Corp.,yfinance
+VTR,"Ventas, Inc.",yfinance
+VTRS,Viatris Inc.,yfinance
+VZ,Verizon Communications Inc.,yfinance
+WAB,Westinghouse Air Brake Technolo,yfinance
+WBD,"Warner Bros. Discovery, Inc. -",yfinance
+WDAY,"Workday, Inc.",yfinance
+WDC,Western Digital Corporation,yfinance
+WELL,Welltower Inc.,yfinance
+WFC,Wells Fargo & Company,yfinance
+WM,"Waste Management, Inc.",yfinance
+WMB,"Williams Companies, Inc. (The)",yfinance
+WMT,Walmart Inc.,yfinance
+WSM,"Williams-Sonoma, Inc.",yfinance
+WST,"West Pharmaceutical Services, I",yfinance
+WTW,Willis Towers Watson Public Lim,yfinance
+WYNN,"Wynn Resorts, Limited",yfinance
+XEL,Xcel Energy Inc.,yfinance
+XYL,Xylem Inc.,yfinance
+XYZ,"Block, Inc.",yfinance
+YUM,"Yum! Brands, Inc.",yfinance
+ZBH,"Zimmer Biomet Holdings, Inc.",yfinance
+ZBRA,Zebra Technologies Corporation,yfinance
+ZTS,Zoetis Inc.,yfinance
