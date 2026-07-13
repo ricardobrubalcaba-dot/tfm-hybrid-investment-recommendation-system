@@ -1,0 +1,13 @@
+fold,model,test_year,tn,fp,fn,tp
+1,Dummy_most_frequent,2023,0,498,0,409
+1,LogisticRegression,2023,371,127,321,88
+1,RandomForest,2023,3,495,3,406
+1,XGBoost,2023,10,488,5,404
+2,Dummy_most_frequent,2024,599,0,830,0
+2,LogisticRegression,2024,1,598,0,830
+2,RandomForest,2024,0,599,0,830
+2,XGBoost,2024,0,599,0,830
+3,Dummy_most_frequent,2025,470,0,454,0
+3,LogisticRegression,2025,1,469,0,454
+3,RandomForest,2025,4,466,0,454
+3,XGBoost,2025,2,468,0,454
